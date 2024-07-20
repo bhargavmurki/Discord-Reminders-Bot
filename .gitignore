@@ -1,0 +1,25 @@
+# Environment variables file
+.env
+
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment directory
+.venv
+ENV/
+venv/
+# Database files
+reminders.db
+
+# Log files
+*.log
+
+# MacOS-specific files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
